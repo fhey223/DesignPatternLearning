@@ -4,3 +4,6 @@ C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Bri
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\BridgePattern\obj\Debug\BridgePattern.csprojResolveAssemblyReference.cache
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\BridgePattern\obj\Debug\BridgePattern.exe
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\BridgePattern\obj\Debug\BridgePattern.pdb
+E:\project\Learn\DesignPatternLearning\BridgePattern\bin\Debug\BridgePattern.exe.config
+E:\project\Learn\DesignPatternLearning\BridgePattern\obj\Debug\BridgePattern.exe
+E:\project\Learn\DesignPatternLearning\BridgePattern\obj\Debug\BridgePattern.pdb

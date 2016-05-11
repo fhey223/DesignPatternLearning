@@ -4,3 +4,6 @@ C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Bui
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\BuilderPattern\obj\Debug\BuilderPattern.exe
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\BuilderPattern\obj\Debug\BuilderPattern.pdb
+E:\project\Learn\DesignPatternLearning\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+E:\project\Learn\DesignPatternLearning\BuilderPattern\obj\Debug\BuilderPattern.exe
+E:\project\Learn\DesignPatternLearning\BuilderPattern\obj\Debug\BuilderPattern.pdb
