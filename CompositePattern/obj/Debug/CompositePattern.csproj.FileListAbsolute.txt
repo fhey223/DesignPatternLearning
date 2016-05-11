@@ -4,3 +4,6 @@ C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Com
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\CompositePattern\obj\Debug\CompositePattern.exe
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\CompositePattern\obj\Debug\CompositePattern.pdb
+E:\project\Learn\DesignPatternLearning\CompositePattern\bin\Debug\CompositePattern.exe.config
+E:\project\Learn\DesignPatternLearning\CompositePattern\obj\Debug\CompositePattern.exe
+E:\project\Learn\DesignPatternLearning\CompositePattern\obj\Debug\CompositePattern.pdb
