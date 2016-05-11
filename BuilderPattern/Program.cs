@@ -10,7 +10,6 @@ namespace BuilderPattern
     class Program
     {
         private static object pictureBox1;
-        //
         static void Main(string[] args)
         {
             Pen p = new Pen(Color.Aqua);
