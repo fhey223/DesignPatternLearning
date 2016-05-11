@@ -1,1 +1,6 @@
 E:\project\Learn\DesignPatternLearning\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe.config
+E:\project\Learn\DesignPatternLearning\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe
+E:\project\Learn\DesignPatternLearning\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
+E:\project\Learn\DesignPatternLearning\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csprojResolveAssemblyReference.cache
+E:\project\Learn\DesignPatternLearning\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.exe
+E:\project\Learn\DesignPatternLearning\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb
