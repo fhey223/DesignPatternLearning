@@ -1,0 +1,6 @@
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\AdapterPattern\obj\Debug\AdapterPattern.exe
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\AdapterPattern\obj\Debug\AdapterPattern.pdb

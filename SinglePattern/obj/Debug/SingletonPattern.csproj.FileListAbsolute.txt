@@ -1,0 +1,3 @@
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\SinglePattern\bin\Debug\SinglePattern.exe.config
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\SinglePattern\obj\Debug\SinglePattern.exe
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\SinglePattern\obj\Debug\SinglePattern.pdb

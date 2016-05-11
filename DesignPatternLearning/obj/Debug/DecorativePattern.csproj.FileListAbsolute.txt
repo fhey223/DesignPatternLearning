@@ -1,0 +1,6 @@
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\DesignPatternLearning\bin\Debug\DesignPatternLearning.exe.config
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\DesignPatternLearning\bin\Debug\DesignPatternLearning.exe
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\DesignPatternLearning\bin\Debug\DesignPatternLearning.pdb
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\DesignPatternLearning\obj\Debug\DecorativePattern.csprojResolveAssemblyReference.cache
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\DesignPatternLearning\obj\Debug\DesignPatternLearning.exe
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\DesignPatternLearning\obj\Debug\DesignPatternLearning.pdb

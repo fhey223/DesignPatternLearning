@@ -1,0 +1,6 @@
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.exe.config
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.exe
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\SimpleFactoryPattern\bin\Debug\SimpleFactoryPattern.pdb
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.exe
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\SimpleFactoryPattern\obj\Debug\SimpleFactoryPattern.pdb

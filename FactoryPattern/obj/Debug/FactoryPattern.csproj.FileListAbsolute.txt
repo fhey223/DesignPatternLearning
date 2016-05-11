@@ -1,0 +1,6 @@
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\FactoryPattern\obj\Debug\FactoryPattern.pdb

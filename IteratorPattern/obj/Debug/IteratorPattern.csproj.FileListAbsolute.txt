@@ -1,0 +1,6 @@
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\IteratorPattern\bin\Debug\IteratorPattern.exe
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\IteratorPattern\bin\Debug\IteratorPattern.pdb
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\IteratorPattern\obj\Debug\IteratorPattern.exe
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\IteratorPattern\obj\Debug\IteratorPattern.pdb

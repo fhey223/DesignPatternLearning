@@ -1,0 +1,5 @@
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Test\bin\Debug\Test.exe.config
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Test\bin\Debug\Test.exe
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Test\bin\Debug\Test.pdb
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Test\obj\Debug\Test.exe
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Test\obj\Debug\Test.pdb

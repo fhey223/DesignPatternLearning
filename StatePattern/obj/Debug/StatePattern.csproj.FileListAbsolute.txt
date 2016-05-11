@@ -1,0 +1,6 @@
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\StatePattern\bin\Debug\StatePattern.exe.config
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\StatePattern\bin\Debug\StatePattern.exe
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\StatePattern\bin\Debug\StatePattern.pdb
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\StatePattern\obj\Debug\StatePattern.csprojResolveAssemblyReference.cache
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\StatePattern\obj\Debug\StatePattern.exe
+C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\StatePattern\obj\Debug\StatePattern.pdb
