@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2508D2E3-C04A-45C3-8C6C-7858785F2522}</ProjectGuid>
+    <ProjectGuid>{24CB4426-D692-4AAF-A46F-506BBCACCECF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>FlyweightPattern</RootNamespace>
