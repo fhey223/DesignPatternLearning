@@ -43,12 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConcreteFlyweight.cs" />
-    <Compile Include="Flyweight.cs" />
-    <Compile Include="FlyweightFactory.cs" />
+    <Compile Include="ConcreteWebSite.cs" />
+    <Compile Include="demo1\ConcreteFlyweight.cs" />
+    <Compile Include="demo1\Flyweight.cs" />
+    <Compile Include="demo1\FlyweightFactory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UnshareConcreteFlyweight.cs" />
+    <Compile Include="WebSite.cs" />
+    <Compile Include="WebSiteFactory.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

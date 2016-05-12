@@ -10,7 +10,19 @@ namespace FlyweightPattern
     {
         static void Main(string[] args)
         {
-            var extrinsicstate = 22;
+            WebSiteFactory f =new WebSiteFactory();
+
+            WebSite fx = f.GetWebSiteCategory("产品展示");
+            fx.Use();
+
+            WebSite fy = f.GetWebSiteCategory("产品展示");
+            fy.Use();
+
+            WebSite fz = f.GetWebSiteCategory("博客");
+            fz.Use();
+
+            Console.WriteLine("网站类别数量为："+f.GetWebSiteCount());
+            Console.Read();
         }
     }
 }
