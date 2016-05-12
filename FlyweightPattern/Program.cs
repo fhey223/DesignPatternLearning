@@ -10,6 +10,7 @@ namespace FlyweightPattern
     {
         static void Main(string[] args)
         {
+            var extrinsicstate = 22;
         }
     }
 }
