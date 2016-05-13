@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="demo1\AbstractExpression.cs" />
+    <Compile Include="demo1\NonterminalExpression.cs" />
+    <Compile Include="demo1\TerminalExpression.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
