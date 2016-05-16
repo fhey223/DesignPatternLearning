@@ -8,12 +8,13 @@ namespace Iterpreter.demo1
 {
 
     /// <summary>
-    /// TODONonterminalExpression
+    /// TODOContext
     /// by gouyf
-    /// 2016/5/13 14:34:54
+    /// 2016/5/16 9:55:23
     /// </summary>
-    public class NonterminalExpression:AbstractExpression
+    public class Context
     {
-        public override void Interpret(Context context) => Console.WriteLine("非终端解释器");
+        public string Input { get; set; }
+        public string Output { get; set; }
     }
 }

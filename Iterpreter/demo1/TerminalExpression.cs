@@ -14,9 +14,6 @@ namespace Iterpreter.demo1
     /// </summary>
     public class TerminalExpression : AbstractExpression
     {
-        public override void Interpret(Context context)
-        {
-            Console.WriteLine("终端解释器");
-        }
+        public override void Interpret(Context context) => Console.WriteLine("终端解释器");
     }
 }
