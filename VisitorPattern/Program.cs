@@ -10,6 +10,15 @@ namespace VisitorPattern
     {
         static void Main(string[] args)
         {
+            ObjectStructure o = new ObjectStructure();
+            o.Attach(new Man());
+            o.Attach(new Woman());
+
+            o.Display(new Success());
+            o.Display(new Failing());
+            o.Display(new Amativeness());
+
+            Console.Read();
         }
     }
 }
