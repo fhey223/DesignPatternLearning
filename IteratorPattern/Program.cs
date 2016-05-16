@@ -22,10 +22,12 @@ namespace IteratorPattern
             a.Add("a");
             a.Add("b");
             a.Add("c");
+            
             IEnumerator<string> e = a.GetEnumerator();
             while (e.MoveNext())
             {
-                Console.WriteLine("{0}请买车票！", e.Current);
+                Console.WriteLine($"{e.Current}请买车票！");
+                Console.WriteLine($"{e.Current}请买车票！");
             }
             //foreach (var item in a)
             //{
