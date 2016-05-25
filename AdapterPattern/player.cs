@@ -1,18 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AdapterPattern
+﻿namespace AdapterPattern
 {
-
     /// <summary>
-    /// TODOplayer
-    /// by gouyf
-    /// 2016/5/9 10:49:57
+    ///     TODOplayer
+    ///     by gouyf
+    ///     2016/5/9 10:49:57
     /// </summary>
-    abstract class Player
+    internal abstract class Player
     {
         protected string name;
 
