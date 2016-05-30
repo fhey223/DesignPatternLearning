@@ -1,16 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace VisitorPattern
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            ObjectStructure o = new ObjectStructure();
+            var o = new ObjectStructure();
             o.Attach(new Man());
             o.Attach(new Woman());
 
