@@ -7,3 +7,6 @@ C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Ada
 E:\project\Learn\DesignPatternLearning\AdapterPattern\bin\Debug\AdapterPattern.exe.config
 E:\project\Learn\DesignPatternLearning\AdapterPattern\obj\Debug\AdapterPattern.exe
 E:\project\Learn\DesignPatternLearning\AdapterPattern\obj\Debug\AdapterPattern.pdb
+E:\project\Learn\DesignPatternLearning\AdapterPattern\bin\Debug\AdapterPattern.exe
+E:\project\Learn\DesignPatternLearning\AdapterPattern\bin\Debug\AdapterPattern.pdb
+E:\project\Learn\DesignPatternLearning\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
