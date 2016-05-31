@@ -26,7 +26,7 @@ namespace AdapterPattern
         {
         }
 
-        public override void Attack()=>
+        public override void Attack() =>
             Console.WriteLine($"中锋{name}进攻");
 
 
