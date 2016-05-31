@@ -14,14 +14,10 @@
             wjzf.Name = name;
         }
 
-        public override void Attack()
-        {
+        public override void Attack()=>
             wjzf.进攻();
-        }
 
-        public override void Defense()
-        {
+        public override void Defense() =>
             wjzf.防守();
-        }
     }
 }

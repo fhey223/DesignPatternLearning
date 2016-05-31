@@ -13,15 +13,11 @@ namespace AdapterPattern
         {
         }
 
-        public override void Attack()
-        {
-            Console.WriteLine("前锋{0}进攻", name);
-        }
+        public override void Attack() =>
+            Console.WriteLine($"前锋{name}进攻");
 
-        public override void Defense()
-        {
-            Console.WriteLine("前锋{0}防守", name);
-        }
+        public override void Defense() =>
+            Console.WriteLine($"前锋{name}防守");
     }
 
     internal class Center : Player
@@ -30,15 +26,12 @@ namespace AdapterPattern
         {
         }
 
-        public override void Attack()
-        {
-            Console.WriteLine("中锋{0}进攻", name);
-        }
+        public override void Attack()=>
+            Console.WriteLine($"中锋{name}进攻");
 
-        public override void Defense()
-        {
-            Console.WriteLine("中锋{0}防守", name);
-        }
+
+        public override void Defense() =>
+            Console.WriteLine($"中锋{name}防守");
     }
 
     internal class Guards : Player
@@ -47,14 +40,10 @@ namespace AdapterPattern
         {
         }
 
-        public override void Attack()
-        {
-            Console.WriteLine("后卫{0}进攻", name);
-        }
+        public override void Attack() =>
+            Console.WriteLine($"后卫{name}进攻");
 
-        public override void Defense()
-        {
-            Console.WriteLine("后卫{0}防守", name);
-        }
+        public override void Defense() =>
+            Console.WriteLine($"后卫{name}防守");
     }
 }
