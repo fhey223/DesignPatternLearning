@@ -1,17 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BridgePattern
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             HandsetBrand ab;
-            ab=new Android();
+            ab = new Android();
             ab.SetHandsetSoft(new HansetGame());
             ab.Run();
 
