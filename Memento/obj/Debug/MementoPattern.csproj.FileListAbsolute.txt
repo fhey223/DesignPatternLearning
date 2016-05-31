@@ -3,3 +3,8 @@ C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Mem
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Memento\bin\Debug\Memento.pdb
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Memento\obj\Debug\Memento.exe
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Memento\obj\Debug\Memento.pdb
+E:\project\Learn\DesignPatternLearning\Memento\bin\Debug\Memento.exe.config
+E:\project\Learn\DesignPatternLearning\Memento\bin\Debug\Memento.exe
+E:\project\Learn\DesignPatternLearning\Memento\bin\Debug\Memento.pdb
+E:\project\Learn\DesignPatternLearning\Memento\obj\Debug\Memento.exe
+E:\project\Learn\DesignPatternLearning\Memento\obj\Debug\Memento.pdb

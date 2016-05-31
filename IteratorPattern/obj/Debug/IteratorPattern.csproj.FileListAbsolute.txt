@@ -9,4 +9,3 @@ E:\project\Learn\DesignPatternLearning\IteratorPattern\obj\Debug\IteratorPattern
 E:\project\Learn\DesignPatternLearning\IteratorPattern\obj\Debug\IteratorPattern.pdb
 E:\project\Learn\DesignPatternLearning\IteratorPattern\bin\Debug\IteratorPattern.exe
 E:\project\Learn\DesignPatternLearning\IteratorPattern\bin\Debug\IteratorPattern.pdb
-E:\project\Learn\DesignPatternLearning\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache

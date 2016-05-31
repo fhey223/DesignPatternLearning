@@ -3,3 +3,8 @@ C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Sin
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\SingletonPattern2\bin\Debug\SingletonPattern2.pdb
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\SingletonPattern2\obj\Debug\SingletonPattern2.exe
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\SingletonPattern2\obj\Debug\SingletonPattern2.pdb
+E:\project\Learn\DesignPatternLearning\SingletonPattern2\bin\Debug\SingletonPattern2.exe.config
+E:\project\Learn\DesignPatternLearning\SingletonPattern2\bin\Debug\SingletonPattern2.exe
+E:\project\Learn\DesignPatternLearning\SingletonPattern2\bin\Debug\SingletonPattern2.pdb
+E:\project\Learn\DesignPatternLearning\SingletonPattern2\obj\Debug\SingletonPattern2.exe
+E:\project\Learn\DesignPatternLearning\SingletonPattern2\obj\Debug\SingletonPattern2.pdb

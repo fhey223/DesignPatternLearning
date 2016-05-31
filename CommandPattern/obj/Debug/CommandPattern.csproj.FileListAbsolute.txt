@@ -7,3 +7,6 @@ C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Com
 E:\project\Learn\DesignPatternLearning\CommandPattern\bin\Debug\CommandPattern.exe.config
 E:\project\Learn\DesignPatternLearning\CommandPattern\obj\Debug\CommandPattern.exe
 E:\project\Learn\DesignPatternLearning\CommandPattern\obj\Debug\CommandPattern.pdb
+E:\project\Learn\DesignPatternLearning\CommandPattern\bin\Debug\CommandPattern.exe
+E:\project\Learn\DesignPatternLearning\CommandPattern\bin\Debug\CommandPattern.pdb
+E:\project\Learn\DesignPatternLearning\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache

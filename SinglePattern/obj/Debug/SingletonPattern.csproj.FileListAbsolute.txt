@@ -1,3 +1,13 @@
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\SinglePattern\bin\Debug\SinglePattern.exe.config
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\SinglePattern\obj\Debug\SinglePattern.exe
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\SinglePattern\obj\Debug\SinglePattern.pdb
+E:\project\Learn\DesignPatternLearning\SinglePattern\bin\Debug\SinglePattern.exe.config
+E:\project\Learn\DesignPatternLearning\SinglePattern\bin\Debug\SinglePattern.exe
+E:\project\Learn\DesignPatternLearning\SinglePattern\bin\Debug\SinglePattern.pdb
+E:\project\Learn\DesignPatternLearning\SinglePattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+E:\project\Learn\DesignPatternLearning\SinglePattern\obj\Debug\SinglePattern.Form1.resources
+E:\project\Learn\DesignPatternLearning\SinglePattern\obj\Debug\SinglePattern.FormToolbox.resources
+E:\project\Learn\DesignPatternLearning\SinglePattern\obj\Debug\SinglePattern.Properties.Resources.resources
+E:\project\Learn\DesignPatternLearning\SinglePattern\obj\Debug\SingletonPattern.csproj.GenerateResource.Cache
+E:\project\Learn\DesignPatternLearning\SinglePattern\obj\Debug\SinglePattern.exe
+E:\project\Learn\DesignPatternLearning\SinglePattern\obj\Debug\SinglePattern.pdb

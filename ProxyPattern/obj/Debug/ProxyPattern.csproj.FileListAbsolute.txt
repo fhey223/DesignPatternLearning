@@ -7,3 +7,6 @@ C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Pro
 E:\project\Learn\DesignPatternLearning\ProxyPattern\bin\Debug\ProxyPattern.exe.config
 E:\project\Learn\DesignPatternLearning\ProxyPattern\obj\Debug\ProxyPattern.exe
 E:\project\Learn\DesignPatternLearning\ProxyPattern\obj\Debug\ProxyPattern.pdb
+E:\project\Learn\DesignPatternLearning\ProxyPattern\bin\Debug\ProxyPattern.exe
+E:\project\Learn\DesignPatternLearning\ProxyPattern\bin\Debug\ProxyPattern.pdb
+E:\project\Learn\DesignPatternLearning\ProxyPattern\obj\Debug\ProxyPattern.csprojResolveAssemblyReference.cache

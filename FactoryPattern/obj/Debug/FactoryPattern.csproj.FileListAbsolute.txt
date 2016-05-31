@@ -7,3 +7,6 @@ C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Fac
 E:\project\Learn\DesignPatternLearning\FactoryPattern\bin\Debug\FactoryPattern.exe.config
 E:\project\Learn\DesignPatternLearning\FactoryPattern\obj\Debug\FactoryPattern.exe
 E:\project\Learn\DesignPatternLearning\FactoryPattern\obj\Debug\FactoryPattern.pdb
+E:\project\Learn\DesignPatternLearning\FactoryPattern\bin\Debug\FactoryPattern.exe
+E:\project\Learn\DesignPatternLearning\FactoryPattern\bin\Debug\FactoryPattern.pdb
+E:\project\Learn\DesignPatternLearning\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache

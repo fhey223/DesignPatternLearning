@@ -7,3 +7,6 @@ C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Str
 E:\project\Learn\DesignPatternLearning\StrategyPattern\bin\Debug\StrategyPattern.exe.config
 E:\project\Learn\DesignPatternLearning\StrategyPattern\obj\Debug\StrategyPattern.exe
 E:\project\Learn\DesignPatternLearning\StrategyPattern\obj\Debug\StrategyPattern.pdb
+E:\project\Learn\DesignPatternLearning\StrategyPattern\bin\Debug\StrategyPattern.exe
+E:\project\Learn\DesignPatternLearning\StrategyPattern\bin\Debug\StrategyPattern.pdb
+E:\project\Learn\DesignPatternLearning\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache

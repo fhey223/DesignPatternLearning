@@ -4,3 +4,9 @@ C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\Fac
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\FactoryPatternOpertion\obj\Debug\FactoryPatternOpertion.csprojResolveAssemblyReference.cache
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\FactoryPatternOpertion\obj\Debug\FactoryPatternOpertion.exe
 C:\Users\dongwj5\documents\visual studio 2015\Projects\DesignPatternLearning\FactoryPatternOpertion\obj\Debug\FactoryPatternOpertion.pdb
+E:\project\Learn\DesignPatternLearning\FactoryPatternOpertion\bin\Debug\FactoryPatternOpertion.exe.config
+E:\project\Learn\DesignPatternLearning\FactoryPatternOpertion\bin\Debug\FactoryPatternOpertion.exe
+E:\project\Learn\DesignPatternLearning\FactoryPatternOpertion\bin\Debug\FactoryPatternOpertion.pdb
+E:\project\Learn\DesignPatternLearning\FactoryPatternOpertion\obj\Debug\FactoryPatternOpertion.csprojResolveAssemblyReference.cache
+E:\project\Learn\DesignPatternLearning\FactoryPatternOpertion\obj\Debug\FactoryPatternOpertion.exe
+E:\project\Learn\DesignPatternLearning\FactoryPatternOpertion\obj\Debug\FactoryPatternOpertion.pdb
