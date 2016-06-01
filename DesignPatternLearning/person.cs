@@ -23,9 +23,7 @@ namespace DesignPatternLearning
             this.name = name;
         }
 
-        public virtual void Show()
-        {
-            Console.WriteLine("装饰的" + name);
-        }  
+
+        public virtual void Show()=> Console.WriteLine("装饰的" + name);
     }
 }
