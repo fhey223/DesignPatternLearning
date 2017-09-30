@@ -13,7 +13,7 @@ namespace VisitorPattern
     /// 2016/5/16 12:40:20
     /// </summary>
     //女人
-    public class Woman : person
+    public class Woman : Person
     {
         public override void Accept(Action visitor)
         {

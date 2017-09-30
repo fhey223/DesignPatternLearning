@@ -44,6 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Android.cs" />
+    <Compile Include="demo\Abstraction.cs" />
+    <Compile Include="demo\ConcretelmplementorA.cs" />
+    <Compile Include="demo\ConcretelmplementorB.cs" />
+    <Compile Include="demo\Implementor.cs" />
+    <Compile Include="demo\RefinedAbstraction.cs" />
     <Compile Include="HandsetBrand.cs" />
     <Compile Include="HandsetSoft.cs" />
     <Compile Include="Ios.cs" />

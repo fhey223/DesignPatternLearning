@@ -21,9 +21,9 @@ namespace FlyweightPattern
             this.name = name;
         }
 
-        public override void Use()
+        public override void Use(User user)
         {
-            Console.WriteLine("网站分类："+name);
+            Console.WriteLine($"网站分类：{name} 用户：{user.Name}");
         }
     }
 }

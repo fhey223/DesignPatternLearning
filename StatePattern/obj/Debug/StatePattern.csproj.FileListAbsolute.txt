@@ -10,3 +10,10 @@ E:\project\Learn\DesignPatternLearning\StatePattern\bin\Debug\StatePattern.pdb
 E:\project\Learn\DesignPatternLearning\StatePattern\obj\Debug\StatePattern.csprojResolveAssemblyReference.cache
 E:\project\Learn\DesignPatternLearning\StatePattern\obj\Debug\StatePattern.exe
 E:\project\Learn\DesignPatternLearning\StatePattern\obj\Debug\StatePattern.pdb
+E:\Test\DesignPatternLearning\StatePattern\bin\Debug\StatePattern.exe.config
+E:\Test\DesignPatternLearning\StatePattern\bin\Debug\StatePattern.exe
+E:\Test\DesignPatternLearning\StatePattern\bin\Debug\StatePattern.pdb
+E:\Test\DesignPatternLearning\StatePattern\obj\Debug\StatePattern.csprojResolveAssemblyReference.cache
+E:\Test\DesignPatternLearning\StatePattern\obj\Debug\StatePattern.csproj.CoreCompileInputs.cache
+E:\Test\DesignPatternLearning\StatePattern\obj\Debug\StatePattern.exe
+E:\Test\DesignPatternLearning\StatePattern\obj\Debug\StatePattern.pdb

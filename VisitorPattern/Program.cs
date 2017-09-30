@@ -4,6 +4,10 @@ namespace VisitorPattern
 {
     internal class Program
     {
+        /// <summary>
+        /// 访问者模式
+        /// </summary>
+        /// <param name="args"></param>
         private static void Main(string[] args)
         {
             var o = new ObjectStructure();

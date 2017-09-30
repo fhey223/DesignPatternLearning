@@ -1,0 +1,7 @@
+E:\Test\DesignPatternLearning\FlyweightPattern\bin\Debug\FlyweightPattern.exe.config
+E:\Test\DesignPatternLearning\FlyweightPattern\bin\Debug\FlyweightPattern.exe
+E:\Test\DesignPatternLearning\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+E:\Test\DesignPatternLearning\FlyweightPattern\obj\Debug\FlyweightPattern.csprojResolveAssemblyReference.cache
+E:\Test\DesignPatternLearning\FlyweightPattern\obj\Debug\FlyweightPattern.csproj.CoreCompileInputs.cache
+E:\Test\DesignPatternLearning\FlyweightPattern\obj\Debug\FlyweightPattern.exe
+E:\Test\DesignPatternLearning\FlyweightPattern\obj\Debug\FlyweightPattern.pdb

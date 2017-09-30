@@ -11,10 +11,7 @@ namespace StatePattern.demo
     {
         private State _state;
 
-        public Context(State state)
-        {
-            State = state;
-        }
+        public Context(State state)=> _state = state;
 
         public State State
         {

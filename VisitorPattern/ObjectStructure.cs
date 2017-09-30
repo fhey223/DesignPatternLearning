@@ -14,13 +14,13 @@ namespace VisitorPattern
     /// </summary>
     public class ObjectStructure
     {
-        private IList<person> elementes=new List<person>();
+        private IList<Person> elementes=new List<Person>();
 
-        public void Attach(person element)
+        public void Attach(Person element)
         {
             elementes.Add(element);
         }
-        public void Detach(person element)
+        public void Detach(Person element)
         {
             elementes.Remove(element);
         }

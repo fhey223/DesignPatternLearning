@@ -2,6 +2,9 @@
 
 namespace AdapterPattern
 {
+    /// <summary>
+    /// 适配器模式（Adapter Pattern）
+    /// </summary>
     internal class Program
     {
         private static void Main(string[] args)

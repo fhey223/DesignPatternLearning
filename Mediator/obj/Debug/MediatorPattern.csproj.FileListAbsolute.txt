@@ -1,0 +1,7 @@
+E:\Test\DesignPatternLearning\Mediator\bin\Debug\Mediator.exe.config
+E:\Test\DesignPatternLearning\Mediator\bin\Debug\Mediator.exe
+E:\Test\DesignPatternLearning\Mediator\bin\Debug\Mediator.pdb
+E:\Test\DesignPatternLearning\Mediator\obj\Debug\MediatorPattern.csprojResolveAssemblyReference.cache
+E:\Test\DesignPatternLearning\Mediator\obj\Debug\MediatorPattern.csproj.CoreCompileInputs.cache
+E:\Test\DesignPatternLearning\Mediator\obj\Debug\Mediator.exe
+E:\Test\DesignPatternLearning\Mediator\obj\Debug\Mediator.pdb

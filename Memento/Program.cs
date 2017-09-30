@@ -15,7 +15,7 @@ namespace MementoPattern
             link.StateDisplayer();
 
             //保存进度
-            RoleStateCaretaker stateAdmin=new RoleStateCaretaker();
+            RoleStateCaretaker stateAdmin = new RoleStateCaretaker();
             stateAdmin.Memento = link.SaveState();
 
             //大战Boss，损耗严重

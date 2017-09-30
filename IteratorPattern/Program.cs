@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace IteratorPattern
 {
+    /// <summary>
+    /// 迭代器模式
+    /// </summary>
     class Program
     {
         static void Main(string[] args)

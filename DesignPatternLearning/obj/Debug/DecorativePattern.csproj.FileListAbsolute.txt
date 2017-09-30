@@ -13,3 +13,9 @@ E:\project\Learn\DesignPatternLearning\DesignPatternLearning\obj\Debug\Decorativ
 E:\project\Test\DesignPatternLearning\DesignPatternLearning\bin\Debug\DesignPatternLearning.exe.config
 E:\project\Test\DesignPatternLearning\DesignPatternLearning\obj\Debug\DesignPatternLearning.exe
 E:\project\Test\DesignPatternLearning\DesignPatternLearning\obj\Debug\DesignPatternLearning.pdb
+E:\Test\DesignPatternLearning\DesignPatternLearning\bin\Debug\DesignPatternLearning.exe.config
+E:\Test\DesignPatternLearning\DesignPatternLearning\bin\Debug\DesignPatternLearning.exe
+E:\Test\DesignPatternLearning\DesignPatternLearning\bin\Debug\DesignPatternLearning.pdb
+E:\Test\DesignPatternLearning\DesignPatternLearning\obj\Debug\DecorativePattern.csprojResolveAssemblyReference.cache
+E:\Test\DesignPatternLearning\DesignPatternLearning\obj\Debug\DesignPatternLearning.exe
+E:\Test\DesignPatternLearning\DesignPatternLearning\obj\Debug\DesignPatternLearning.pdb

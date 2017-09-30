@@ -14,6 +14,6 @@ namespace FlyweightPattern
     /// </summary>
     public abstract class WebSite
     {
-        public abstract void Use();
+        public abstract void Use(User user);
     }
 }

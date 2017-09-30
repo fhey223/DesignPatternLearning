@@ -7,31 +7,34 @@ using StatePattern.demo;
 
 namespace StatePattern
 {
+    /// <summary>
+    /// 状态模式
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
         {
             #region demo
-            Context c=new Context(new ConcreteStateA());
-            c.Request();
-            c.Request();
-            c.Request();
+            //Context c=new Context(new ConcreteStateA());
+            //c.Request();
+            //c.Request();
+            //c.Request();
             #endregion
-            //Work ww=new Work();
-            //ww.Hour = 9;
-            //ww.Write();
-            //ww.Hour = 13;
-            //ww.Write();
-            //ww.Hour = 15;
-            //ww.Write();
-            //ww.Finish = false;
-            //ww.Hour = 18;
-            //ww.Write();
+            Work ww = new Work();
+            ww.Hour = 9;
+            ww.Write();
+            ww.Hour = 13;
+            ww.Write();
+            ww.Hour = 15;
+            ww.Write();
+            ww.Finish = false;
+            ww.Hour = 18;
+            ww.Write();
 
-            //ww.Hour = 20;
-            //ww.Write();
-            //ww.Hour = 22;
-            //ww.Write();
+            ww.Hour = 20;
+            ww.Write();
+            ww.Hour = 22;
+            ww.Write();
             Console.Read();
         }
     }

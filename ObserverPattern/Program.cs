@@ -17,9 +17,9 @@ namespace ObserverPattern
             qt.Update += new EventHandler(ts2.Update);
             
             qt.SecretaryAction = "come back";
-            qt.Notify2();
-            qt.Attach(ts1);
-            qt.Attach(ts2);
+            //qt.Notify2();
+            //qt.Attach(ts1);
+            //qt.Attach(ts2);
             qt.Notify();
 
             Console.Read();

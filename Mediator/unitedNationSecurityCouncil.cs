@@ -14,18 +14,19 @@ namespace Mediator
     /// </summary>
     public class unitedNationSecurityCouncil : UnitedNations
     {
-        public Country country1 { get;set; }
-        public Country country2 { get; set; }
+        //public Country country1 { get;set; }
+        //public Country country2 { get; set; }
         public override void Declare(string meggase, Country colleague)
         {
-            if (colleague == country1)
-            {
-                country2.GetMessage(meggase);
-            }
-            else
-            {
-                country1.GetMessage(meggase);
-            }
+            colleague.GetMessage(meggase);
+            //if (colleague == country1)
+            //{
+            //    country2.GetMessage(meggase);
+            //}
+            //else
+            //{
+            //    country1.GetMessage(meggase);
+            //}
         }
     }
 }

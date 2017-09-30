@@ -8,6 +8,10 @@ namespace Mediator
 {
     class Program
     {
+        /// <summary>
+        /// 中介者模式
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             unitedNationSecurityCouncil UNSC = new unitedNationSecurityCouncil();
@@ -15,8 +19,8 @@ namespace Mediator
             USA USA=new USA(UNSC);
             Iraq Iraq = new Iraq(UNSC);
 
-            UNSC.country1 = USA;
-            UNSC.country2 = Iraq;
+            //UNSC.country1 = USA;
+            //UNSC.country2 = Iraq;
 
             USA.Declare("呃呃呃");
             Iraq.Declare("呼呼呼");

@@ -10,3 +10,10 @@ E:\project\Learn\DesignPatternLearning\CompositePattern\obj\Debug\CompositePatte
 E:\project\Learn\DesignPatternLearning\CompositePattern\bin\Debug\CompositePattern.exe
 E:\project\Learn\DesignPatternLearning\CompositePattern\bin\Debug\CompositePattern.pdb
 E:\project\Learn\DesignPatternLearning\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
+E:\Test\DesignPatternLearning\CompositePattern\bin\Debug\CompositePattern.exe.config
+E:\Test\DesignPatternLearning\CompositePattern\bin\Debug\CompositePattern.exe
+E:\Test\DesignPatternLearning\CompositePattern\bin\Debug\CompositePattern.pdb
+E:\Test\DesignPatternLearning\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
+E:\Test\DesignPatternLearning\CompositePattern\obj\Debug\CompositePattern.csproj.CoreCompileInputs.cache
+E:\Test\DesignPatternLearning\CompositePattern\obj\Debug\CompositePattern.exe
+E:\Test\DesignPatternLearning\CompositePattern\obj\Debug\CompositePattern.pdb

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecorativePattern", "DesignPatternLearning\DecorativePattern.csproj", "{F4ACDDD9-9CDA-49D2-B7E7-8862656538BF}"
 EndProject
@@ -43,13 +43,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern", "BridgePatt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandPattern", "CommandPattern\CommandPattern.csproj", "{2888A28B-118E-439D-A243-C40304558E49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternChainOfResponsibility", "ChainOfResponsibility\PatternChainOfResponsibility.csproj", "{F19DACC8-2CE4-4AC8-9F10-7F2C6E7B0BC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsibilityPattern", "ChainOfResponsibility\ChainOfResponsibilityPattern.csproj", "{F19DACC8-2CE4-4AC8-9F10-7F2C6E7B0BC8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern", "Mediator\MediatorPattern.csproj", "{1D9D89F6-82BA-4530-816E-C5F6B89B11A4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.csproj", "{24CB4426-D692-4AAF-A46F-506BBCACCECF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterpreterPattern", "Iterpreter\IterpreterPattern.csproj", "{0E53DFC8-2546-4892-8081-118AF3724C06}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpreterPattern", "Iterpreter\InterpreterPattern.csproj", "{0E53DFC8-2546-4892-8081-118AF3724C06}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "VisitorPattern\VisitorPattern.csproj", "{8A99AC12-FEE7-450F-A84B-A8FC19D95F1F}"
 EndProject
@@ -204,5 +204,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BC7B59A-7077-4458-B855-E71C991BD2D7}
 	EndGlobalSection
 EndGlobal

@@ -12,7 +12,7 @@ namespace VisitorPattern
     /// by gouyf
     /// 2016/5/16 12:17:01
     /// </summary>
-    public abstract class person
+    public abstract class Person
     {
         public abstract void Accept(Action visitor);
     }

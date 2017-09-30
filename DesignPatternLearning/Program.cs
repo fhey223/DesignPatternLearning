@@ -5,6 +5,10 @@ namespace DesignPatternLearning
 {
     internal class Program
     {
+        /// <summary>
+        /// 装饰者模式
+        /// </summary>
+        /// <param name="args"></param>
         private static void Main(string[] args)
         {
             #region demo1

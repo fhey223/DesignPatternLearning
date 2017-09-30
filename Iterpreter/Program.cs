@@ -9,6 +9,10 @@ namespace Iterpreter
 {
     class Program
     {
+        /// <summary>
+        /// 解释器模式
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             //Context context=new Context();
